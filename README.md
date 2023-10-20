@@ -6,5 +6,5 @@ https://visgo-banking.netlify.app
 
 ### Video :
 
-[<img src="https://img.youtube.com/vi/TJNuDL-A--g&t=1s/0.jpg" width="600" height="300"/>](https://www.youtube.com/embed/TJNuDL-A--g&t=1s)
+[![VisGo Banking](http://img.youtube.com/vi/TJNuDL-A--g&t=1s/0.jpg)](http://www.youtube.com/watch?v=TJNuDL-A--g&t=1s "Video Title")
 
