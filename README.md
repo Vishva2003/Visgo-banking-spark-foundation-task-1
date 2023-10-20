@@ -6,6 +6,4 @@ https://visgo-banking.netlify.app
 
 ### Video :
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TJNuDL-A--g&t=1s" target="_blank">
- <img src="http://img.youtube.com/vi/TJNuDL-A--g&t=1s/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+https://github.com/Vishva2003/Visgo-banking-spark-foundation-task-1/assets/119120019/af6a823b-17c7-4885-8083-d1f01d07dc0a
